@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85444743915",
+    "project_id": "amit-shop",
+    "storage_bucket": "amit-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85444743915:android:a9caaf6607a772d41464ae",
+        "android_client_info": {
+          "package_name": "com.example.amit_shope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85444743915-n26k68lce89ij7nh80ubll4qi0hjklbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJhrL-hDVzsDjjk0lZqI9OVZ7YpY7lFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85444743915-n26k68lce89ij7nh80ubll4qi0hjklbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
